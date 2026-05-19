@@ -1,0 +1,2403 @@
+{
+    "japanese": {
+        "greetings": [
+            {
+                "phrase": "こんにちは",
+                "romanized": "Konnichiwa",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "おはようございます",
+                "romanized": "Ohayou gozaimasu",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "こんばんは",
+                "romanized": "Konbanwa",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "ありがとう",
+                "romanized": "Arigatou",
+                "translation": "Thank you"
+            },
+            {
+                "phrase": "すみません",
+                "romanized": "Sumimasen",
+                "translation": "Excuse me"
+            },
+            {
+                "phrase": "さようなら",
+                "romanized": "Sayounara",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "はじめまして",
+                "romanized": "Hajimemashite",
+                "translation": "Nice to meet you"
+            },
+            {
+                "phrase": "おやすみなさい",
+                "romanized": "Oyasuminasai",
+                "translation": "Good night"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "いち",
+                "romanized": "Ichi",
+                "translation": "One"
+            },
+            {
+                "phrase": "に",
+                "romanized": "Ni",
+                "translation": "Two"
+            },
+            {
+                "phrase": "さん",
+                "romanized": "San",
+                "translation": "Three"
+            },
+            {
+                "phrase": "し",
+                "romanized": "Shi",
+                "translation": "Four"
+            },
+            {
+                "phrase": "ご",
+                "romanized": "Go",
+                "translation": "Five"
+            },
+            {
+                "phrase": "ろく",
+                "romanized": "Roku",
+                "translation": "Six"
+            },
+            {
+                "phrase": "しち",
+                "romanized": "Shichi",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "はち",
+                "romanized": "Hachi",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "く",
+                "romanized": "Ku",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "じゅう",
+                "romanized": "Juu",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "あか",
+                "romanized": "Aka",
+                "translation": "Red"
+            },
+            {
+                "phrase": "あお",
+                "romanized": "Ao",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "きいろ",
+                "romanized": "Kiiro",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "みどり",
+                "romanized": "Midori",
+                "translation": "Green"
+            },
+            {
+                "phrase": "しろ",
+                "romanized": "Shiro",
+                "translation": "White"
+            },
+            {
+                "phrase": "くろ",
+                "romanized": "Kuro",
+                "translation": "Black"
+            },
+            {
+                "phrase": "もも",
+                "romanized": "Momo",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "むらさき",
+                "romanized": "Murasaki",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "ごはん",
+                "romanized": "Gohan",
+                "translation": "Rice / Meal"
+            },
+            {
+                "phrase": "みず",
+                "romanized": "Mizu",
+                "translation": "Water"
+            },
+            {
+                "phrase": "パン",
+                "romanized": "Pan",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "さかな",
+                "romanized": "Sakana",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "にく",
+                "romanized": "Niku",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "やさい",
+                "romanized": "Yasai",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "くだもの",
+                "romanized": "Kudamono",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "たまご",
+                "romanized": "Tamago",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "わかりません",
+                "romanized": "Wakarimasen",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "もう一度お願いします",
+                "romanized": "Mou ichido onegaishimasu",
+                "translation": "Please say that again"
+            },
+            {
+                "phrase": "せんせい",
+                "romanized": "Sensei",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "がくせい",
+                "romanized": "Gakusei",
+                "translation": "Student"
+            },
+            {
+                "phrase": "ほん",
+                "romanized": "Hon",
+                "translation": "Book"
+            },
+            {
+                "phrase": "えんぴつ",
+                "romanized": "Enpitsu",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "しつもん",
+                "romanized": "Shitsumon",
+                "translation": "Question"
+            },
+            {
+                "phrase": "こたえ",
+                "romanized": "Kotae",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "どこですか",
+                "romanized": "Doko desu ka",
+                "translation": "Where is it?"
+            },
+            {
+                "phrase": "えき",
+                "romanized": "Eki",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "くうこう",
+                "romanized": "Kuukou",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "ホテル",
+                "romanized": "Hoteru",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "みぎ",
+                "romanized": "Migi",
+                "translation": "Right"
+            },
+            {
+                "phrase": "ひだり",
+                "romanized": "Hidari",
+                "translation": "Left"
+            },
+            {
+                "phrase": "まっすぐ",
+                "romanized": "Massugu",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "タクシー",
+                "romanized": "Takushii",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "おかあさん",
+                "romanized": "Okaasan",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "おとうさん",
+                "romanized": "Otousan",
+                "translation": "Father"
+            },
+            {
+                "phrase": "あに",
+                "romanized": "Ani",
+                "translation": "Older brother"
+            },
+            {
+                "phrase": "あね",
+                "romanized": "Ane",
+                "translation": "Older sister"
+            },
+            {
+                "phrase": "おとうと",
+                "romanized": "Otouto",
+                "translation": "Younger brother"
+            },
+            {
+                "phrase": "いもうと",
+                "romanized": "Imouto",
+                "translation": "Younger sister"
+            },
+            {
+                "phrase": "そふ",
+                "romanized": "Sofu",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "そぼ",
+                "romanized": "Sobo",
+                "translation": "Grandmother"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "げつようび",
+                "romanized": "Getsuyoubi",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "かようび",
+                "romanized": "Kayoubi",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "すいようび",
+                "romanized": "Suiyoubi",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "もくようび",
+                "romanized": "Mokuyoubi",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "きんようび",
+                "romanized": "Kin'youbi",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "どようび",
+                "romanized": "Doyoubi",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "にちようび",
+                "romanized": "Nichiyoubi",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "french": {
+        "greetings": [
+            {
+                "phrase": "Bonjour",
+                "romanized": "",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "Bonsoir",
+                "romanized": "",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "Bonjour matin",
+                "romanized": "",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "Merci beaucoup",
+                "romanized": "",
+                "translation": "Thank you very much"
+            },
+            {
+                "phrase": "Au revoir",
+                "romanized": "",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "Enchanté",
+                "romanized": "",
+                "translation": "Nice to meet you"
+            },
+            {
+                "phrase": "Bonne nuit",
+                "romanized": "",
+                "translation": "Good night"
+            },
+            {
+                "phrase": "Excusez-moi",
+                "romanized": "",
+                "translation": "Excuse me"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "Un",
+                "romanized": "",
+                "translation": "One"
+            },
+            {
+                "phrase": "Deux",
+                "romanized": "",
+                "translation": "Two"
+            },
+            {
+                "phrase": "Trois",
+                "romanized": "",
+                "translation": "Three"
+            },
+            {
+                "phrase": "Quatre",
+                "romanized": "",
+                "translation": "Four"
+            },
+            {
+                "phrase": "Cinq",
+                "romanized": "",
+                "translation": "Five"
+            },
+            {
+                "phrase": "Six",
+                "romanized": "",
+                "translation": "Six"
+            },
+            {
+                "phrase": "Sept",
+                "romanized": "",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "Huit",
+                "romanized": "",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "Neuf",
+                "romanized": "",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "Dix",
+                "romanized": "",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "Rouge",
+                "romanized": "",
+                "translation": "Red"
+            },
+            {
+                "phrase": "Bleu",
+                "romanized": "",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "Jaune",
+                "romanized": "",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "Vert",
+                "romanized": "",
+                "translation": "Green"
+            },
+            {
+                "phrase": "Blanc",
+                "romanized": "",
+                "translation": "White"
+            },
+            {
+                "phrase": "Noir",
+                "romanized": "",
+                "translation": "Black"
+            },
+            {
+                "phrase": "Rose",
+                "romanized": "",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "Violet",
+                "romanized": "",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "Le pain",
+                "romanized": "",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "L'eau",
+                "romanized": "",
+                "translation": "Water"
+            },
+            {
+                "phrase": "Le riz",
+                "romanized": "",
+                "translation": "Rice"
+            },
+            {
+                "phrase": "Le poisson",
+                "romanized": "",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "La viande",
+                "romanized": "",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "Les légumes",
+                "romanized": "",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "Les fruits",
+                "romanized": "",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "L'oeuf",
+                "romanized": "",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "Je ne comprends pas",
+                "romanized": "",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "Pouvez-vous répéter?",
+                "romanized": "",
+                "translation": "Can you repeat?"
+            },
+            {
+                "phrase": "Le professeur",
+                "romanized": "",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "L'étudiant",
+                "romanized": "",
+                "translation": "Student"
+            },
+            {
+                "phrase": "Le livre",
+                "romanized": "",
+                "translation": "Book"
+            },
+            {
+                "phrase": "Le crayon",
+                "romanized": "",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "La question",
+                "romanized": "",
+                "translation": "Question"
+            },
+            {
+                "phrase": "La réponse",
+                "romanized": "",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "Où est...?",
+                "romanized": "",
+                "translation": "Where is...?"
+            },
+            {
+                "phrase": "La gare",
+                "romanized": "",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "L'aéroport",
+                "romanized": "",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "L'hôtel",
+                "romanized": "",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "À droite",
+                "romanized": "",
+                "translation": "To the right"
+            },
+            {
+                "phrase": "À gauche",
+                "romanized": "",
+                "translation": "To the left"
+            },
+            {
+                "phrase": "Tout droit",
+                "romanized": "",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "Le taxi",
+                "romanized": "",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "La mère",
+                "romanized": "",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "Le père",
+                "romanized": "",
+                "translation": "Father"
+            },
+            {
+                "phrase": "Le frère",
+                "romanized": "",
+                "translation": "Brother"
+            },
+            {
+                "phrase": "La soeur",
+                "romanized": "",
+                "translation": "Sister"
+            },
+            {
+                "phrase": "Le grand-père",
+                "romanized": "",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "La grand-mère",
+                "romanized": "",
+                "translation": "Grandmother"
+            },
+            {
+                "phrase": "L'oncle",
+                "romanized": "",
+                "translation": "Uncle"
+            },
+            {
+                "phrase": "La tante",
+                "romanized": "",
+                "translation": "Aunt"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "Lundi",
+                "romanized": "",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "Mardi",
+                "romanized": "",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "Mercredi",
+                "romanized": "",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "Jeudi",
+                "romanized": "",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "Vendredi",
+                "romanized": "",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "Samedi",
+                "romanized": "",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "Dimanche",
+                "romanized": "",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "german": {
+        "greetings": [
+            {
+                "phrase": "Hallo",
+                "romanized": "",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "Guten Morgen",
+                "romanized": "",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "Guten Abend",
+                "romanized": "",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "Danke schön",
+                "romanized": "",
+                "translation": "Thank you very much"
+            },
+            {
+                "phrase": "Auf Wiedersehen",
+                "romanized": "",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "Gute Nacht",
+                "romanized": "",
+                "translation": "Good night"
+            },
+            {
+                "phrase": "Entschuldigung",
+                "romanized": "",
+                "translation": "Excuse me"
+            },
+            {
+                "phrase": "Freut mich",
+                "romanized": "",
+                "translation": "Nice to meet you"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "Eins",
+                "romanized": "",
+                "translation": "One"
+            },
+            {
+                "phrase": "Zwei",
+                "romanized": "",
+                "translation": "Two"
+            },
+            {
+                "phrase": "Drei",
+                "romanized": "",
+                "translation": "Three"
+            },
+            {
+                "phrase": "Vier",
+                "romanized": "",
+                "translation": "Four"
+            },
+            {
+                "phrase": "Fünf",
+                "romanized": "",
+                "translation": "Five"
+            },
+            {
+                "phrase": "Sechs",
+                "romanized": "",
+                "translation": "Six"
+            },
+            {
+                "phrase": "Sieben",
+                "romanized": "",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "Acht",
+                "romanized": "",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "Neun",
+                "romanized": "",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "Zehn",
+                "romanized": "",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "Rot",
+                "romanized": "",
+                "translation": "Red"
+            },
+            {
+                "phrase": "Blau",
+                "romanized": "",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "Gelb",
+                "romanized": "",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "Grün",
+                "romanized": "",
+                "translation": "Green"
+            },
+            {
+                "phrase": "Weiß",
+                "romanized": "",
+                "translation": "White"
+            },
+            {
+                "phrase": "Schwarz",
+                "romanized": "",
+                "translation": "Black"
+            },
+            {
+                "phrase": "Rosa",
+                "romanized": "",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "Lila",
+                "romanized": "",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "Das Brot",
+                "romanized": "",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "Das Wasser",
+                "romanized": "",
+                "translation": "Water"
+            },
+            {
+                "phrase": "Der Reis",
+                "romanized": "",
+                "translation": "Rice"
+            },
+            {
+                "phrase": "Der Fisch",
+                "romanized": "",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "Das Fleisch",
+                "romanized": "",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "Das Gemüse",
+                "romanized": "",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "Das Obst",
+                "romanized": "",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "Das Ei",
+                "romanized": "",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "Ich verstehe nicht",
+                "romanized": "",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "Können Sie das wiederholen?",
+                "romanized": "",
+                "translation": "Can you repeat that?"
+            },
+            {
+                "phrase": "Der Lehrer",
+                "romanized": "",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "Der Student",
+                "romanized": "",
+                "translation": "Student"
+            },
+            {
+                "phrase": "Das Buch",
+                "romanized": "",
+                "translation": "Book"
+            },
+            {
+                "phrase": "Der Bleistift",
+                "romanized": "",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "Die Frage",
+                "romanized": "",
+                "translation": "Question"
+            },
+            {
+                "phrase": "Die Antwort",
+                "romanized": "",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "Wo ist...?",
+                "romanized": "",
+                "translation": "Where is...?"
+            },
+            {
+                "phrase": "Der Bahnhof",
+                "romanized": "",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "Der Flughafen",
+                "romanized": "",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "Das Hotel",
+                "romanized": "",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "Rechts",
+                "romanized": "",
+                "translation": "Right"
+            },
+            {
+                "phrase": "Links",
+                "romanized": "",
+                "translation": "Left"
+            },
+            {
+                "phrase": "Geradeaus",
+                "romanized": "",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "Das Taxi",
+                "romanized": "",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "Die Mutter",
+                "romanized": "",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "Der Vater",
+                "romanized": "",
+                "translation": "Father"
+            },
+            {
+                "phrase": "Der Bruder",
+                "romanized": "",
+                "translation": "Brother"
+            },
+            {
+                "phrase": "Die Schwester",
+                "romanized": "",
+                "translation": "Sister"
+            },
+            {
+                "phrase": "Der Großvater",
+                "romanized": "",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "Die Großmutter",
+                "romanized": "",
+                "translation": "Grandmother"
+            },
+            {
+                "phrase": "Der Onkel",
+                "romanized": "",
+                "translation": "Uncle"
+            },
+            {
+                "phrase": "Die Tante",
+                "romanized": "",
+                "translation": "Aunt"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "Montag",
+                "romanized": "",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "Dienstag",
+                "romanized": "",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "Mittwoch",
+                "romanized": "",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "Donnerstag",
+                "romanized": "",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "Freitag",
+                "romanized": "",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "Samstag",
+                "romanized": "",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "Sonntag",
+                "romanized": "",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "korean": {
+        "greetings": [
+            {
+                "phrase": "안녕하세요",
+                "romanized": "Annyeonghaseyo",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "좋은 아침이에요",
+                "romanized": "Joheun achimieyo",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "좋은 저녁이에요",
+                "romanized": "Joheun jeonyogieyo",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "감사합니다",
+                "romanized": "Gamsahamnida",
+                "translation": "Thank you"
+            },
+            {
+                "phrase": "안녕히 가세요",
+                "romanized": "Annyeonghi gaseyo",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "반갑습니다",
+                "romanized": "Bangapseumnida",
+                "translation": "Nice to meet you"
+            },
+            {
+                "phrase": "실례합니다",
+                "romanized": "Sillyehamnida",
+                "translation": "Excuse me"
+            },
+            {
+                "phrase": "안녕히 주무세요",
+                "romanized": "Annyeonghi jumuseyo",
+                "translation": "Good night"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "일",
+                "romanized": "Il",
+                "translation": "One"
+            },
+            {
+                "phrase": "이",
+                "romanized": "I",
+                "translation": "Two"
+            },
+            {
+                "phrase": "삼",
+                "romanized": "Sam",
+                "translation": "Three"
+            },
+            {
+                "phrase": "사",
+                "romanized": "Sa",
+                "translation": "Four"
+            },
+            {
+                "phrase": "오",
+                "romanized": "O",
+                "translation": "Five"
+            },
+            {
+                "phrase": "육",
+                "romanized": "Yuk",
+                "translation": "Six"
+            },
+            {
+                "phrase": "칠",
+                "romanized": "Chil",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "팔",
+                "romanized": "Pal",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "구",
+                "romanized": "Gu",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "십",
+                "romanized": "Sip",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "빨간색",
+                "romanized": "Ppalgan saek",
+                "translation": "Red"
+            },
+            {
+                "phrase": "파란색",
+                "romanized": "Paran saek",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "노란색",
+                "romanized": "Noran saek",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "초록색",
+                "romanized": "Chorok saek",
+                "translation": "Green"
+            },
+            {
+                "phrase": "흰색",
+                "romanized": "Huin saek",
+                "translation": "White"
+            },
+            {
+                "phrase": "검은색",
+                "romanized": "Geomeun saek",
+                "translation": "Black"
+            },
+            {
+                "phrase": "분홍색",
+                "romanized": "Bunhong saek",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "보라색",
+                "romanized": "Bora saek",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "밥",
+                "romanized": "Bap",
+                "translation": "Rice / Meal"
+            },
+            {
+                "phrase": "물",
+                "romanized": "Mul",
+                "translation": "Water"
+            },
+            {
+                "phrase": "빵",
+                "romanized": "Ppang",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "생선",
+                "romanized": "Saengseon",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "고기",
+                "romanized": "Gogi",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "채소",
+                "romanized": "Chaeso",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "과일",
+                "romanized": "Gwail",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "계란",
+                "romanized": "Gyeran",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "이해가 안 돼요",
+                "romanized": "Ihaega an dwaeyo",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "다시 말해 주세요",
+                "romanized": "Dasi malhae juseyo",
+                "translation": "Please say that again"
+            },
+            {
+                "phrase": "선생님",
+                "romanized": "Seonsaengnim",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "학생",
+                "romanized": "Haksaeng",
+                "translation": "Student"
+            },
+            {
+                "phrase": "책",
+                "romanized": "Chaek",
+                "translation": "Book"
+            },
+            {
+                "phrase": "연필",
+                "romanized": "Yeonpil",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "질문",
+                "romanized": "Jilmun",
+                "translation": "Question"
+            },
+            {
+                "phrase": "대답",
+                "romanized": "Daedap",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "어디에 있어요?",
+                "romanized": "Eodie isseoyo?",
+                "translation": "Where is it?"
+            },
+            {
+                "phrase": "기차역",
+                "romanized": "Gichayeok",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "공항",
+                "romanized": "Gonghang",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "호텔",
+                "romanized": "Hotel",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "오른쪽",
+                "romanized": "Oreunjjok",
+                "translation": "Right"
+            },
+            {
+                "phrase": "왼쪽",
+                "romanized": "Oenjjok",
+                "translation": "Left"
+            },
+            {
+                "phrase": "직진",
+                "romanized": "Jikjin",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "택시",
+                "romanized": "Taeksi",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "어머니",
+                "romanized": "Eomeoni",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "아버지",
+                "romanized": "Abeoji",
+                "translation": "Father"
+            },
+            {
+                "phrase": "오빠",
+                "romanized": "Oppa",
+                "translation": "Older brother (female speaker)"
+            },
+            {
+                "phrase": "언니",
+                "romanized": "Eonni",
+                "translation": "Older sister (female speaker)"
+            },
+            {
+                "phrase": "남동생",
+                "romanized": "Namdongsaeng",
+                "translation": "Younger brother"
+            },
+            {
+                "phrase": "여동생",
+                "romanized": "Yeodongsaeng",
+                "translation": "Younger sister"
+            },
+            {
+                "phrase": "할아버지",
+                "romanized": "Harabeoji",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "할머니",
+                "romanized": "Halmeoni",
+                "translation": "Grandmother"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "월요일",
+                "romanized": "Woryoil",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "화요일",
+                "romanized": "Hwayoil",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "수요일",
+                "romanized": "Suyoil",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "목요일",
+                "romanized": "Mogyoil",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "금요일",
+                "romanized": "Geumyoil",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "토요일",
+                "romanized": "Toyoil",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "일요일",
+                "romanized": "Iryoil",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "chinese": {
+        "greetings": [
+            {
+                "phrase": "你好",
+                "romanized": "Nǐ hǎo",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "早上好",
+                "romanized": "Zǎoshang hǎo",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "晚上好",
+                "romanized": "Wǎnshàng hǎo",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "谢谢",
+                "romanized": "Xièxiè",
+                "translation": "Thank you"
+            },
+            {
+                "phrase": "再见",
+                "romanized": "Zàijiàn",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "晚安",
+                "romanized": "Wǎn'ān",
+                "translation": "Good night"
+            },
+            {
+                "phrase": "对不起",
+                "romanized": "Duìbuqǐ",
+                "translation": "Sorry / Excuse me"
+            },
+            {
+                "phrase": "幸会",
+                "romanized": "Xìnghuì",
+                "translation": "Nice to meet you"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "一",
+                "romanized": "Yī",
+                "translation": "One"
+            },
+            {
+                "phrase": "二",
+                "romanized": "Èr",
+                "translation": "Two"
+            },
+            {
+                "phrase": "三",
+                "romanized": "Sān",
+                "translation": "Three"
+            },
+            {
+                "phrase": "四",
+                "romanized": "Sì",
+                "translation": "Four"
+            },
+            {
+                "phrase": "五",
+                "romanized": "Wǔ",
+                "translation": "Five"
+            },
+            {
+                "phrase": "六",
+                "romanized": "Liù",
+                "translation": "Six"
+            },
+            {
+                "phrase": "七",
+                "romanized": "Qī",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "八",
+                "romanized": "Bā",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "九",
+                "romanized": "Jiǔ",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "十",
+                "romanized": "Shí",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "红色",
+                "romanized": "Hóngsè",
+                "translation": "Red"
+            },
+            {
+                "phrase": "蓝色",
+                "romanized": "Lánsè",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "黄色",
+                "romanized": "Huángsè",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "绿色",
+                "romanized": "Lǜsè",
+                "translation": "Green"
+            },
+            {
+                "phrase": "白色",
+                "romanized": "Báisè",
+                "translation": "White"
+            },
+            {
+                "phrase": "黑色",
+                "romanized": "Hēisè",
+                "translation": "Black"
+            },
+            {
+                "phrase": "粉色",
+                "romanized": "Fěnsè",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "紫色",
+                "romanized": "Zǐsè",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "米饭",
+                "romanized": "Mǐfàn",
+                "translation": "Rice"
+            },
+            {
+                "phrase": "水",
+                "romanized": "Shuǐ",
+                "translation": "Water"
+            },
+            {
+                "phrase": "面包",
+                "romanized": "Miànbāo",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "鱼",
+                "romanized": "Yú",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "肉",
+                "romanized": "Ròu",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "蔬菜",
+                "romanized": "Shūcài",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "水果",
+                "romanized": "Shuǐguǒ",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "鸡蛋",
+                "romanized": "Jīdàn",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "我不明白",
+                "romanized": "Wǒ bù míngbái",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "请再说一遍",
+                "romanized": "Qǐng zài shuō yībiàn",
+                "translation": "Please say that again"
+            },
+            {
+                "phrase": "老师",
+                "romanized": "Lǎoshī",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "学生",
+                "romanized": "Xuéshēng",
+                "translation": "Student"
+            },
+            {
+                "phrase": "书",
+                "romanized": "Shū",
+                "translation": "Book"
+            },
+            {
+                "phrase": "铅笔",
+                "romanized": "Qiānbǐ",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "问题",
+                "romanized": "Wèntí",
+                "translation": "Question"
+            },
+            {
+                "phrase": "答案",
+                "romanized": "Dá'àn",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "在哪里?",
+                "romanized": "Zài nǎlǐ?",
+                "translation": "Where is it?"
+            },
+            {
+                "phrase": "火车站",
+                "romanized": "Huǒchēzhàn",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "机场",
+                "romanized": "Jīchǎng",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "酒店",
+                "romanized": "Jiǔdiàn",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "右边",
+                "romanized": "Yòubiān",
+                "translation": "Right"
+            },
+            {
+                "phrase": "左边",
+                "romanized": "Zuǒbiān",
+                "translation": "Left"
+            },
+            {
+                "phrase": "直走",
+                "romanized": "Zhí zǒu",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "出租车",
+                "romanized": "Chūzūchē",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "妈妈",
+                "romanized": "Māma",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "爸爸",
+                "romanized": "Bàba",
+                "translation": "Father"
+            },
+            {
+                "phrase": "哥哥",
+                "romanized": "Gēgē",
+                "translation": "Older brother"
+            },
+            {
+                "phrase": "姐姐",
+                "romanized": "Jiějie",
+                "translation": "Older sister"
+            },
+            {
+                "phrase": "弟弟",
+                "romanized": "Dìdì",
+                "translation": "Younger brother"
+            },
+            {
+                "phrase": "妹妹",
+                "romanized": "Mèimei",
+                "translation": "Younger sister"
+            },
+            {
+                "phrase": "爷爷",
+                "romanized": "Yéyé",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "奶奶",
+                "romanized": "Nǎinai",
+                "translation": "Grandmother"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "星期一",
+                "romanized": "Xīngqīyī",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "星期二",
+                "romanized": "Xīngqī'èr",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "星期三",
+                "romanized": "Xīngqīsān",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "星期四",
+                "romanized": "Xīngqīsì",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "星期五",
+                "romanized": "Xīngqīwǔ",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "星期六",
+                "romanized": "Xīngqīliù",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "星期日",
+                "romanized": "Xīngqīrì",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "russian": {
+        "greetings": [
+            {
+                "phrase": "Привет",
+                "romanized": "Privet",
+                "translation": "Hello"
+            },
+            {
+                "phrase": "Доброе утро",
+                "romanized": "Dobroye utro",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "Добрый вечер",
+                "romanized": "Dobryy vecher",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "Спасибо",
+                "romanized": "Spasibo",
+                "translation": "Thank you"
+            },
+            {
+                "phrase": "До свидания",
+                "romanized": "Do svidaniya",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "Спокойной ночи",
+                "romanized": "Spokojnoj nochi",
+                "translation": "Good night"
+            },
+            {
+                "phrase": "Извините",
+                "romanized": "Izvinite",
+                "translation": "Excuse me"
+            },
+            {
+                "phrase": "Приятно познакомиться",
+                "romanized": "Priyatno poznakomitsya",
+                "translation": "Nice to meet you"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "Один",
+                "romanized": "Odin",
+                "translation": "One"
+            },
+            {
+                "phrase": "Два",
+                "romanized": "Dva",
+                "translation": "Two"
+            },
+            {
+                "phrase": "Три",
+                "romanized": "Tri",
+                "translation": "Three"
+            },
+            {
+                "phrase": "Четыре",
+                "romanized": "Chetyre",
+                "translation": "Four"
+            },
+            {
+                "phrase": "Пять",
+                "romanized": "Pyat",
+                "translation": "Five"
+            },
+            {
+                "phrase": "Шесть",
+                "romanized": "Shest",
+                "translation": "Six"
+            },
+            {
+                "phrase": "Семь",
+                "romanized": "Sem",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "Восемь",
+                "romanized": "Vosem",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "Девять",
+                "romanized": "Devyat",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "Десять",
+                "romanized": "Desyat",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "Красный",
+                "romanized": "Krasnyy",
+                "translation": "Red"
+            },
+            {
+                "phrase": "Синий",
+                "romanized": "Siniy",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "Жёлтый",
+                "romanized": "Zholtyy",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "Зелёный",
+                "romanized": "Zelonyy",
+                "translation": "Green"
+            },
+            {
+                "phrase": "Белый",
+                "romanized": "Belyy",
+                "translation": "White"
+            },
+            {
+                "phrase": "Чёрный",
+                "romanized": "Chornyy",
+                "translation": "Black"
+            },
+            {
+                "phrase": "Розовый",
+                "romanized": "Rozovyy",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "Фиолетовый",
+                "romanized": "Fioletovyy",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "Хлеб",
+                "romanized": "Khleb",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "Вода",
+                "romanized": "Voda",
+                "translation": "Water"
+            },
+            {
+                "phrase": "Рис",
+                "romanized": "Ris",
+                "translation": "Rice"
+            },
+            {
+                "phrase": "Рыба",
+                "romanized": "Ryba",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "Мясо",
+                "romanized": "Myaso",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "Овощи",
+                "romanized": "Ovoshchi",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "Фрукты",
+                "romanized": "Frukty",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "Яйцо",
+                "romanized": "Yaytso",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "Я не понимаю",
+                "romanized": "Ya ne ponimayu",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "Повторите, пожалуйста",
+                "romanized": "Povtorite, pozhaluysta",
+                "translation": "Please repeat"
+            },
+            {
+                "phrase": "Учитель",
+                "romanized": "Uchitel",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "Студент",
+                "romanized": "Student",
+                "translation": "Student"
+            },
+            {
+                "phrase": "Книга",
+                "romanized": "Kniga",
+                "translation": "Book"
+            },
+            {
+                "phrase": "Карандаш",
+                "romanized": "Karandash",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "Вопрос",
+                "romanized": "Vopros",
+                "translation": "Question"
+            },
+            {
+                "phrase": "Ответ",
+                "romanized": "Otvet",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "Где находится?",
+                "romanized": "Gde nakhoditsya?",
+                "translation": "Where is it?"
+            },
+            {
+                "phrase": "Вокзал",
+                "romanized": "Vokzal",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "Аэропорт",
+                "romanized": "Aeroport",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "Гостиница",
+                "romanized": "Gostinitsa",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "Направо",
+                "romanized": "Napravo",
+                "translation": "Right"
+            },
+            {
+                "phrase": "Налево",
+                "romanized": "Nalevo",
+                "translation": "Left"
+            },
+            {
+                "phrase": "Прямо",
+                "romanized": "Pryamo",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "Такси",
+                "romanized": "Taksi",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "Мать",
+                "romanized": "Mat",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "Отец",
+                "romanized": "Otets",
+                "translation": "Father"
+            },
+            {
+                "phrase": "Брат",
+                "romanized": "Brat",
+                "translation": "Brother"
+            },
+            {
+                "phrase": "Сестра",
+                "romanized": "Sestra",
+                "translation": "Sister"
+            },
+            {
+                "phrase": "Дедушка",
+                "romanized": "Dedushka",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "Бабушка",
+                "romanized": "Babushka",
+                "translation": "Grandmother"
+            },
+            {
+                "phrase": "Дядя",
+                "romanized": "Dyadya",
+                "translation": "Uncle"
+            },
+            {
+                "phrase": "Тётя",
+                "romanized": "Tyotya",
+                "translation": "Aunt"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "Понедельник",
+                "romanized": "Ponedelnik",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "Вторник",
+                "romanized": "Vtornik",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "Среда",
+                "romanized": "Sreda",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "Четверг",
+                "romanized": "Chetverg",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "Пятница",
+                "romanized": "Pyatnitsa",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "Суббота",
+                "romanized": "Subbota",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "Воскресенье",
+                "romanized": "Voskresenye",
+                "translation": "Sunday"
+            }
+        ]
+    },
+    "italian": {
+        "greetings": [
+            {
+                "phrase": "Ciao",
+                "romanized": "",
+                "translation": "Hello / Bye"
+            },
+            {
+                "phrase": "Buongiorno",
+                "romanized": "",
+                "translation": "Good morning"
+            },
+            {
+                "phrase": "Buonasera",
+                "romanized": "",
+                "translation": "Good evening"
+            },
+            {
+                "phrase": "Grazie mille",
+                "romanized": "",
+                "translation": "Thank you very much"
+            },
+            {
+                "phrase": "Arrivederci",
+                "romanized": "",
+                "translation": "Goodbye"
+            },
+            {
+                "phrase": "Buonanotte",
+                "romanized": "",
+                "translation": "Good night"
+            },
+            {
+                "phrase": "Scusi",
+                "romanized": "",
+                "translation": "Excuse me"
+            },
+            {
+                "phrase": "Piacere",
+                "romanized": "",
+                "translation": "Nice to meet you"
+            }
+        ],
+        "numbers": [
+            {
+                "phrase": "Uno",
+                "romanized": "",
+                "translation": "One"
+            },
+            {
+                "phrase": "Due",
+                "romanized": "",
+                "translation": "Two"
+            },
+            {
+                "phrase": "Tre",
+                "romanized": "",
+                "translation": "Three"
+            },
+            {
+                "phrase": "Quattro",
+                "romanized": "",
+                "translation": "Four"
+            },
+            {
+                "phrase": "Cinque",
+                "romanized": "",
+                "translation": "Five"
+            },
+            {
+                "phrase": "Sei",
+                "romanized": "",
+                "translation": "Six"
+            },
+            {
+                "phrase": "Sette",
+                "romanized": "",
+                "translation": "Seven"
+            },
+            {
+                "phrase": "Otto",
+                "romanized": "",
+                "translation": "Eight"
+            },
+            {
+                "phrase": "Nove",
+                "romanized": "",
+                "translation": "Nine"
+            },
+            {
+                "phrase": "Dieci",
+                "romanized": "",
+                "translation": "Ten"
+            }
+        ],
+        "colors": [
+            {
+                "phrase": "Rosso",
+                "romanized": "",
+                "translation": "Red"
+            },
+            {
+                "phrase": "Blu",
+                "romanized": "",
+                "translation": "Blue"
+            },
+            {
+                "phrase": "Giallo",
+                "romanized": "",
+                "translation": "Yellow"
+            },
+            {
+                "phrase": "Verde",
+                "romanized": "",
+                "translation": "Green"
+            },
+            {
+                "phrase": "Bianco",
+                "romanized": "",
+                "translation": "White"
+            },
+            {
+                "phrase": "Nero",
+                "romanized": "",
+                "translation": "Black"
+            },
+            {
+                "phrase": "Rosa",
+                "romanized": "",
+                "translation": "Pink"
+            },
+            {
+                "phrase": "Viola",
+                "romanized": "",
+                "translation": "Purple"
+            }
+        ],
+        "food": [
+            {
+                "phrase": "Il pane",
+                "romanized": "",
+                "translation": "Bread"
+            },
+            {
+                "phrase": "L'acqua",
+                "romanized": "",
+                "translation": "Water"
+            },
+            {
+                "phrase": "Il riso",
+                "romanized": "",
+                "translation": "Rice"
+            },
+            {
+                "phrase": "Il pesce",
+                "romanized": "",
+                "translation": "Fish"
+            },
+            {
+                "phrase": "La carne",
+                "romanized": "",
+                "translation": "Meat"
+            },
+            {
+                "phrase": "Le verdure",
+                "romanized": "",
+                "translation": "Vegetables"
+            },
+            {
+                "phrase": "La frutta",
+                "romanized": "",
+                "translation": "Fruit"
+            },
+            {
+                "phrase": "L'uovo",
+                "romanized": "",
+                "translation": "Egg"
+            }
+        ],
+        "classroom": [
+            {
+                "phrase": "Non capisco",
+                "romanized": "",
+                "translation": "I don't understand"
+            },
+            {
+                "phrase": "Può ripetere?",
+                "romanized": "",
+                "translation": "Can you repeat?"
+            },
+            {
+                "phrase": "Il professore",
+                "romanized": "",
+                "translation": "Teacher"
+            },
+            {
+                "phrase": "Lo studente",
+                "romanized": "",
+                "translation": "Student"
+            },
+            {
+                "phrase": "Il libro",
+                "romanized": "",
+                "translation": "Book"
+            },
+            {
+                "phrase": "La matita",
+                "romanized": "",
+                "translation": "Pencil"
+            },
+            {
+                "phrase": "La domanda",
+                "romanized": "",
+                "translation": "Question"
+            },
+            {
+                "phrase": "La risposta",
+                "romanized": "",
+                "translation": "Answer"
+            }
+        ],
+        "travel": [
+            {
+                "phrase": "Dov'è...?",
+                "romanized": "",
+                "translation": "Where is...?"
+            },
+            {
+                "phrase": "La stazione",
+                "romanized": "",
+                "translation": "Train station"
+            },
+            {
+                "phrase": "L'aeroporto",
+                "romanized": "",
+                "translation": "Airport"
+            },
+            {
+                "phrase": "L'albergo",
+                "romanized": "",
+                "translation": "Hotel"
+            },
+            {
+                "phrase": "A destra",
+                "romanized": "",
+                "translation": "To the right"
+            },
+            {
+                "phrase": "A sinistra",
+                "romanized": "",
+                "translation": "To the left"
+            },
+            {
+                "phrase": "Dritto",
+                "romanized": "",
+                "translation": "Straight ahead"
+            },
+            {
+                "phrase": "Il taxi",
+                "romanized": "",
+                "translation": "Taxi"
+            }
+        ],
+        "family": [
+            {
+                "phrase": "La madre",
+                "romanized": "",
+                "translation": "Mother"
+            },
+            {
+                "phrase": "Il padre",
+                "romanized": "",
+                "translation": "Father"
+            },
+            {
+                "phrase": "Il fratello",
+                "romanized": "",
+                "translation": "Brother"
+            },
+            {
+                "phrase": "La sorella",
+                "romanized": "",
+                "translation": "Sister"
+            },
+            {
+                "phrase": "Il nonno",
+                "romanized": "",
+                "translation": "Grandfather"
+            },
+            {
+                "phrase": "La nonna",
+                "romanized": "",
+                "translation": "Grandmother"
+            },
+            {
+                "phrase": "Lo zio",
+                "romanized": "",
+                "translation": "Uncle"
+            },
+            {
+                "phrase": "La zia",
+                "romanized": "",
+                "translation": "Aunt"
+            }
+        ],
+        "days": [
+            {
+                "phrase": "Lunedì",
+                "romanized": "",
+                "translation": "Monday"
+            },
+            {
+                "phrase": "Martedì",
+                "romanized": "",
+                "translation": "Tuesday"
+            },
+            {
+                "phrase": "Mercoledì",
+                "romanized": "",
+                "translation": "Wednesday"
+            },
+            {
+                "phrase": "Giovedì",
+                "romanized": "",
+                "translation": "Thursday"
+            },
+            {
+                "phrase": "Venerdì",
+                "romanized": "",
+                "translation": "Friday"
+            },
+            {
+                "phrase": "Sabato",
+                "romanized": "",
+                "translation": "Saturday"
+            },
+            {
+                "phrase": "Domenica",
+                "romanized": "",
+                "translation": "Sunday"
+            }
+        ]
+    }
+}
