@@ -1,0 +1,289 @@
+language,word,romanized,meaning,category,difficulty,example,example_romanized,example_translation
+
+korean,안녕하세요,annyeonghaseyo,hello,greetings,beginner,안녕하세요 선생님,annyeonghaseyo seonsaengnim,Hello teacher
+korean,감사합니다,gamsahamnida,thank you,greetings,beginner,감사합니다 선생님,gamsahamnida seonsaengnim,Thank you teacher
+korean,죄송합니다,joesonghamnida,sorry,greetings,beginner,죄송합니다 친구,joesonghamnida chingu,Sorry friend
+korean,안녕히 가세요,annyeonghi gaseyo,goodbye,greetings,beginner,안녕히 가세요 선생님,annyeonghi gaseyo seonsaengnim,Goodbye teacher
+korean,괜찮아요,gwaenchanayo,it's okay,greetings,beginner,괜찮아요 저는 좋아요,gwaenchanayo jeoneun joayo,It's okay I am fine
+korean,하나,hana,one,numbers,beginner,하나 주세요,hana juseyo,Please give me one
+korean,둘,dul,two,numbers,beginner,사과 둘 주세요,sagwa dul juseyo,Please give me two apples
+korean,셋,set,three,numbers,beginner,책 셋 있어요,chaek set isseoyo,There are three books
+korean,넷,net,four,numbers,beginner,펜 넷 있어요,pen net isseoyo,There are four pens
+korean,다섯,daseot,five,numbers,beginner,다섯 명이에요,daseot myeong-ieyo,There are five people
+korean,빨간색,ppalgansaek,red,colors,beginner,빨간색 가방이에요,ppalgansaek gabang-ieyo,It is a red bag
+korean,파란색,paransaek,blue,colors,beginner,파란색 펜이에요,paransaek pen-ieyo,It is a blue pen
+korean,노란색,noransaek,yellow,colors,beginner,노란색 꽃이에요,noransaek kkot-ieyo,It is a yellow flower
+korean,초록색,choroksaek,green,colors,beginner,초록색 책이에요,choroksaek chaek-ieyo,It is a green book
+korean,검은색,geomeunsaek,black,colors,beginner,검은색 신발이에요,geomeunsaek sinbal-ieyo,They are black shoes
+korean,밥,bap,rice/meal,food,beginner,밥을 먹어요,babeul meogeoyo,I eat rice
+korean,물,mul,water,food,beginner,물을 마셔요,mureul masyeoyo,I drink water
+korean,사과,sagwa,apple,food,beginner,사과를 먹어요,sagwareul meogeoyo,I eat an apple
+korean,빵,ppang,bread,food,beginner,빵을 좋아해요,ppangeul joahaeyo,I like bread
+korean,커피,keopi,coffee,food,beginner,커피를 마셔요,keopireul masyeoyo,I drink coffee
+korean,책,chaek,book,classroom,beginner,책을 읽어요,chaegeul ilgeoyo,I read a book
+korean,펜,pen,pen,classroom,beginner,펜이 있어요,pen-i isseoyo,I have a pen
+korean,학교,hakgyo,school,classroom,beginner,학교에 가요,hakgyoe gayo,I go to school
+korean,선생님,seonsaengnim,teacher,classroom,beginner,선생님이 친절해요,seonsaengnim-i chinjeolhaeyo,The teacher is kind
+korean,학생,haksaeng,student,classroom,beginner,저는 학생이에요,jeoneun haksaeng-ieyo,I am a student
+korean,공항,gonghang,airport,travel,beginner,공항에 가요,gonghange gayo,I go to the airport
+korean,호텔,hotel,hotel,travel,beginner,호텔에 있어요,hotel-e isseoyo,I am at the hotel
+korean,기차,gicha,train,travel,beginner,기차를 타요,gichareul tayo,I take the train
+korean,버스,beoseu,bus,travel,beginner,버스를 기다려요,beoseureul gidaryeoyo,I wait for the bus
+korean,여권,yeogwon,passport,travel,beginner,여권이 필요해요,yeogwon-i piryohaeyo,I need a passport
+korean,엄마,eomma,mom,family,beginner,엄마를 사랑해요,eommareul saranghaeyo,I love my mom
+korean,아빠,appa,dad,family,beginner,아빠가 집에 있어요,appaga jibe isseoyo,Dad is at home
+korean,언니,eonni,older sister,family,beginner,언니가 있어요,eonniga isseoyo,I have an older sister
+korean,형,hyeong,older brother,family,beginner,형이 친절해요,hyeong-i chinjeolhaeyo,My older brother is kind
+korean,가족,gajok,family,family,beginner,우리 가족이에요,uri gajog-ieyo,This is my family
+korean,월요일,woryoil,Monday,days,beginner,월요일에 학교에 가요,woryoire hakgyoe gayo,I go to school on Monday
+korean,화요일,hwayoil,Tuesday,days,beginner,화요일에 만나요,hwayoire mannayo,See you on Tuesday
+korean,수요일,suyoil,Wednesday,days,beginner,수요일에 공부해요,suyoire gongbuhaeyo,I study on Wednesday
+korean,목요일,mogyoil,Thursday,days,beginner,목요일에 일해요,mogyoire ilhaeyo,I work on Thursday
+korean,금요일,geumyoil,Friday,days,beginner,금요일에 쉬어요,geumyoire swieoyo,I rest on Friday
+
+japanese,こんにちは,konnichiwa,hello,greetings,beginner,こんにちは先生,konnichiwa sensei,Hello teacher
+japanese,ありがとう,arigatou,thank you,greetings,beginner,ありがとうございます,arigatou gozaimasu,Thank you very much
+japanese,すみません,sumimasen,excuse me/sorry,greetings,beginner,すみません先生,sumimasen sensei,Excuse me teacher
+japanese,さようなら,sayounara,goodbye,greetings,beginner,さようなら友だち,sayounara tomodachi,Goodbye friend
+japanese,おはようございます,ohayou gozaimasu,good morning,greetings,beginner,おはようございます先生,ohayou gozaimasu sensei,Good morning teacher
+japanese,一,ichi,one,numbers,beginner,一つください,hitotsu kudasai,Please give me one
+japanese,二,ni,two,numbers,beginner,りんごを二つください,ringo o futatsu kudasai,Please give me two apples
+japanese,三,san,three,numbers,beginner,本が三冊あります,hon ga sansatsu arimasu,There are three books
+japanese,四,yon,four,numbers,beginner,ペンが四本あります,pen ga yonhon arimasu,There are four pens
+japanese,五,go,five,numbers,beginner,学生が五人います,gakusei ga gonin imasu,There are five students
+japanese,赤,aka,red,colors,beginner,赤いかばんです,akai kaban desu,It is a red bag
+japanese,青,ao,blue,colors,beginner,青いペンです,aoi pen desu,It is a blue pen
+japanese,黄色,kiiro,yellow,colors,beginner,黄色い花です,kiiroi hana desu,It is a yellow flower
+japanese,緑,midori,green,colors,beginner,緑の本です,midori no hon desu,It is a green book
+japanese,黒,kuro,black,colors,beginner,黒い靴です,kuroi kutsu desu,They are black shoes
+japanese,ご飯,gohan,rice/meal,food,beginner,ご飯を食べます,gohan o tabemasu,I eat rice
+japanese、水,mizu,water,food,beginner,水を飲みます,mizu o nomimasu,I drink water
+japanese,りんご,ringo,apple,food,beginner,りんごを食べます,ringo o tabemasu,I eat an apple
+japanese,パン,pan,bread,food,beginner,パンが好きです,pan ga suki desu,I like bread
+japanese,コーヒー,koohii,coffee,food,beginner,コーヒーを飲みます,koohii o nomimasu,I drink coffee
+japanese,本,hon,book,classroom,beginner,本を読みます,hon o yomimasu,I read a book
+japanese,ペン,pen,pen,classroom,beginner,ペンがあります,pen ga arimasu,I have a pen
+japanese,学校,gakkou,school,classroom,beginner,学校に行きます,gakkou ni ikimasu,I go to school
+japanese,先生,sensei,teacher,classroom,beginner,先生は親切です,sensei wa shinsetsu desu,The teacher is kind
+japanese,学生,gakusei,student,classroom,beginner,私は学生です,watashi wa gakusei desu,I am a student
+japanese,空港,kuukou,airport,travel,beginner,空港に行きます,kuukou ni ikimasu,I go to the airport
+japanese,ホテル,hoteru,hotel,travel,beginner,ホテルにいます,hoteru ni imasu,I am at the hotel
+japanese,電車,densha,train,travel,beginner,電車に乗ります,densha ni norimasu,I take the train
+japanese,バス,basu,bus,travel,beginner,バスを待ちます,basu o machimasu,I wait for the bus
+japanese,パスポート,pasupooto,passport,travel,beginner,パスポートが必要です,pasupooto ga hitsuyou desu,I need a passport
+japanese,母,haha,mother,family,beginner,母が好きです,haha ga suki desu,I like my mother
+japanese,父,chichi,father,family,beginner,父は家にいます,chichi wa ie ni imasu,My father is at home
+japanese,姉,ane,older sister,family,beginner,姉がいます,ane ga imasu,I have an older sister
+japanese,兄,ani,older brother,family,beginner,兄は親切です,ani wa shinsetsu desu,My older brother is kind
+japanese,家族,kazoku,family,family,beginner,これは私の家族です,kore wa watashi no kazoku desu,This is my family
+japanese,月曜日,getsuyoubi,Monday,days,beginner,月曜日に学校に行きます,getsuyoubi ni gakkou ni ikimasu,I go to school on Monday
+japanese,火曜日,kayoubi,Tuesday,days,beginner,火曜日に会いましょう,kayoubi ni aimashou,See you on Tuesday
+japanese,水曜日,suiyoubi,Wednesday,days,beginner,水曜日に勉強します,suiyoubi ni benkyou shimasu,I study on Wednesday
+japanese,木曜日,mokuyoubi,Thursday,days,beginner,木曜日に働きます,mokuyoubi ni hatarakimasu,I work on Thursday
+japanese,金曜日,kinyoubi,Friday,days,beginner,金曜日に休みます,kinyoubi ni yasumimasu,I rest on Friday
+
+chinese,你好,ni hao,hello,greetings,beginner,你好老师,ni hao lao shi,Hello teacher
+chinese,谢谢,xie xie,thank you,greetings,beginner,谢谢老师,xie xie lao shi,Thank you teacher
+chinese,对不起,dui bu qi,sorry,greetings,beginner,对不起朋友,dui bu qi peng you,Sorry friend
+chinese,再见,zai jian,goodbye,greetings,beginner,再见老师,zai jian lao shi,Goodbye teacher
+chinese,早上好,zao shang hao,good morning,greetings,beginner,早上好老师,zao shang hao lao shi,Good morning teacher
+chinese,一,yi,one,numbers,beginner,请给我一个,qing gei wo yi ge,Please give me one
+chinese,二,er,two,numbers,beginner,请给我两个苹果,qing gei wo liang ge ping guo,Please give me two apples
+chinese,三,san,three,numbers,beginner,有三本书,you san ben shu,There are three books
+chinese,四,si,four,numbers,beginner,有四支笔,you si zhi bi,There are four pens
+chinese,五,wu,five,numbers,beginner,有五个学生,you wu ge xue sheng,There are five students
+chinese,红色,hong se,red,colors,beginner,这是红色的包,zhe shi hong se de bao,It is a red bag
+chinese,蓝色,lan se,blue,colors,beginner,这是蓝色的笔,zhe shi lan se de bi,It is a blue pen
+chinese,黄色,huang se,yellow,colors,beginner,这是一朵黄色的花,zhe shi yi duo huang se de hua,It is a yellow flower
+chinese,绿色,lu se,green,colors,beginner,这是绿色的书,zhe shi lu se de shu,It is a green book
+chinese,黑色,hei se,black,colors,beginner,这是黑色的鞋,zhe shi hei se de xie,They are black shoes
+chinese,米饭,mi fan,rice/meal,food,beginner,我吃米饭,wo chi mi fan,I eat rice
+chinese,水,shui,water,food,beginner,我喝水,wo he shui,I drink water
+chinese,苹果,ping guo,apple,food,beginner,我吃苹果,wo chi ping guo,I eat an apple
+chinese,面包,mian bao,bread,food,beginner,我喜欢面包,wo xi huan mian bao,I like bread
+chinese,咖啡,ka fei,coffee,food,beginner,我喝咖啡,wo he ka fei,I drink coffee
+chinese,书,shu,book,classroom,beginner,我读书,wo du shu,I read a book
+chinese,笔,bi,pen,classroom,beginner,我有一支笔,wo you yi zhi bi,I have a pen
+chinese,学校,xue xiao,school,classroom,beginner,我去学校,wo qu xue xiao,I go to school
+chinese,老师,lao shi,teacher,classroom,beginner,老师很友好,lao shi hen you hao,The teacher is kind
+chinese,学生,xue sheng,student,classroom,beginner,我是学生,wo shi xue sheng,I am a student
+chinese,机场,ji chang,airport,travel,beginner,我去机场,wo qu ji chang,I go to the airport
+chinese,酒店,jiu dian,hotel,travel,beginner,我在酒店,wo zai jiu dian,I am at the hotel
+chinese,火车,huo che,train,travel,beginner,我坐火车,wo zuo huo che,I take the train
+chinese,公交车,gong jiao che,bus,travel,beginner,我等公交车,wo deng gong jiao che,I wait for the bus
+chinese,护照,hu zhao,passport,travel,beginner,我需要护照,wo xu yao hu zhao,I need a passport
+chinese,妈妈,ma ma,mom,family,beginner,我爱妈妈,wo ai ma ma,I love my mom
+chinese,爸爸,ba ba,dad,family,beginner,爸爸在家,ba ba zai jia,Dad is at home
+chinese,姐姐,jie jie,older sister,family,beginner,我有姐姐,wo you jie jie,I have an older sister
+chinese,哥哥,ge ge,older brother,family,beginner,哥哥很友好,ge ge hen you hao,My older brother is kind
+chinese,家庭,jia ting,family,family,beginner,这是我的家庭,zhe shi wo de jia ting,This is my family
+chinese,星期一,xing qi yi,Monday,days,beginner,星期一我去学校,xing qi yi wo qu xue xiao,I go to school on Monday
+chinese,星期二,xing qi er,Tuesday,days,beginner,星期二见,xing qi er jian,See you on Tuesday
+chinese,星期三,xing qi san,Wednesday,days,beginner,星期三我学习,xing qi san wo xue xi,I study on Wednesday
+chinese,星期四,xing qi si,Thursday,days,beginner,星期四我工作,xing qi si wo gong zuo,I work on Thursday
+chinese,星期五,xing qi wu,Friday,days,beginner,星期五我休息,xing qi wu wo xiu xi,I rest on Friday
+
+russian,Здравствуйте,zdravstvuyte,hello,greetings,beginner,Здравствуйте учитель,zdravstvuyte uchitel,Hello teacher
+russian,Спасибо,spasibo,thank you,greetings,beginner,Спасибо учитель,spasibo uchitel,Thank you teacher
+russian,Извините,izvinite,sorry/excuse me,greetings,beginner,Извините друг,izvinite drug,Sorry friend
+russian,До свидания,do svidaniya,goodbye,greetings,beginner,До свидания учитель,do svidaniya uchitel,Goodbye teacher
+russian,Доброе утро,dobroye utro,good morning,greetings,beginner,Доброе утро учитель,dobroye utro uchitel,Good morning teacher
+russian,один,odin,one,numbers,beginner,Дайте один пожалуйста,dayte odin pozhaluysta,Please give me one
+russian,два,dva,two,numbers,beginner,Дайте два яблока пожалуйста,dayte dva yabloka pozhaluysta,Please give me two apples
+russian,три,tri,three,numbers,beginner,Есть три книги,yest tri knigi,There are three books
+russian,четыре,chetyre,four,numbers,beginner,Есть четыре ручки,yest chetyre ruchki,There are four pens
+russian,пять,pyat,five,numbers,beginner,Есть пять студентов,yest pyat studentov,There are five students
+russian,красный,krasnyy,red,colors,beginner,Это красная сумка,eto krasnaya sumka,It is a red bag
+russian,синий,siniy,blue,colors,beginner,Это синяя ручка,eto sinyaya ruchka,It is a blue pen
+russian,жёлтый,zholtyy,yellow,colors,beginner,Это жёлтый цветок,eto zholtyy tsvetok,It is a yellow flower
+russian,зелёный,zelyonyy,green,colors,beginner,Это зелёная книга,eto zelyonaya kniga,It is a green book
+russian,чёрный,chyornyy,black,colors,beginner,Это чёрные туфли,eto chyornye tufli,They are black shoes
+russian,рис,ris,rice,food,beginner,Я ем рис,ya yem ris,I eat rice
+russian,вода,voda,water,food,beginner,Я пью воду,ya pyu vodu,I drink water
+russian,яблоко,yabloko,apple,food,beginner,Я ем яблоко,ya yem yabloko,I eat an apple
+russian,хлеб,khleb,bread,food,beginner,Я люблю хлеб,ya lyublyu khleb,I like bread
+russian,кофе,kofe,coffee,food,beginner,Я пью кофе,ya pyu kofe,I drink coffee
+russian,книга,kniga,book,classroom,beginner,Я читаю книгу,ya chitayu knigu,I read a book
+russian,ручка,ruchka,pen,classroom,beginner,У меня есть ручка,u menya yest ruchka,I have a pen
+russian,школа,shkola,school,classroom,beginner,Я иду в школу,ya idu v shkolu,I go to school
+russian,учитель,uchitel,teacher,classroom,beginner,Учитель добрый,uchitel dobryy,The teacher is kind
+russian,студент,student,student,classroom,beginner,Я студент,ya student,I am a student
+russian,аэропорт,aeroport,airport,travel,beginner,Я еду в аэропорт,ya yedu v aeroport,I go to the airport
+russian,отель,otel,hotel,travel,beginner,Я в отеле,ya v otele,I am at the hotel
+russian,поезд,poezd,train,travel,beginner,Я еду на поезде,ya yedu na poezde,I take the train
+russian,автобус,avtobus,bus,travel,beginner,Я жду автобус,ya zhdu avtobus,I wait for the bus
+russian,паспорт,pasport,passport,travel,beginner,Мне нужен паспорт,mne nuzhen pasport,I need a passport
+russian,мама,mama,mom,family,beginner,Я люблю маму,ya lyublyu mamu,I love my mom
+russian,папа,papa,dad,family,beginner,Папа дома,papa doma,Dad is at home
+russian,старшая сестра,starshaya sestra,older sister,family,beginner,У меня есть старшая сестра,u menya yest starshaya sestra,I have an older sister
+russian,старший брат,starshiy brat,older brother,family,beginner,Старший брат добрый,starshiy brat dobryy,My older brother is kind
+russian,семья,semya,family,family,beginner,Это моя семья,eto moya semya,This is my family
+russian,понедельник,ponedelnik,Monday,days,beginner,В понедельник я иду в школу,v ponedelnik ya idu v shkolu,I go to school on Monday
+russian,вторник,vtornik,Tuesday,days,beginner,Увидимся во вторник,uvidimsya vo vtornik,See you on Tuesday
+russian,среда,sreda,Wednesday,days,beginner,В среду я учусь,v sredu ya uchus,I study on Wednesday
+russian,четверг,chetverg,Thursday,days,beginner,В четверг я работаю,v chetverg ya rabotayu,I work on Thursday
+russian,пятница,pyatnitsa,Friday,days,beginner,В пятницу я отдыхаю,v pyatnitsu ya otdykhayu,I rest on Friday
+
+french,bonjour,bohn-zhoor,hello,greetings,beginner,Bonjour professeur,bohn-zhoor proh-feh-suhr,Hello teacher
+french,merci,mehr-see,thank you,greetings,beginner,Merci professeur,mehr-see proh-feh-suhr,Thank you teacher
+french,pardon,par-dohn,sorry/excuse me,greetings,beginner,Pardon mon ami,par-dohn mohn ah-mee,Sorry my friend
+french,au revoir,oh ruh-vwahr,goodbye,greetings,beginner,Au revoir professeur,oh ruh-vwahr proh-feh-suhr,Goodbye teacher
+french,bon matin,bohn mah-tan,good morning,greetings,beginner,Bon matin professeur,bohn mah-tan proh-feh-suhr,Good morning teacher
+french,un,uh,one,numbers,beginner,Donnez-moi un s'il vous plaît,doh-nay mwah uh seel voo pleh,Please give me one
+french,deux,duh,two,numbers,beginner,Donnez-moi deux pommes s'il vous plaît,doh-nay mwah duh pom seel voo pleh,Please give me two apples
+french,trois,trwah,three,numbers,beginner,Il y a trois livres,eel yah trwah leevr,There are three books
+french,quatre,katr,four,numbers,beginner,Il y a quatre stylos,eel yah katr stee-loh,There are four pens
+french,cinq,sank,five,numbers,beginner,Il y a cinq étudiants,eel yah sank ay-too-dyahn,There are five students
+french,rouge,roozh,red,colors,beginner,C'est un sac rouge,seh tuh sak roozh,It is a red bag
+french,bleu,bluh,blue,colors,beginner,C'est un stylo bleu,seh tuh stee-loh bluh,It is a blue pen
+french,jaune,zhohn,yellow,colors,beginner,C'est une fleur jaune,seh toon fluhr zhohn,It is a yellow flower
+french,vert,vehr,green,colors,beginner,C'est un livre vert,seh tuh leevr vehr,It is a green book
+french,noir,nwahr,black,colors,beginner,Ce sont des chaussures noires,suh sohn day shoh-sur nwahr,They are black shoes
+french,riz,ree,rice,food,beginner,Je mange du riz,zhuh mahnzh du ree,I eat rice
+french,eau,oh,water,food,beginner,Je bois de l'eau,zhuh bwah duh loh,I drink water
+french,pomme,pom,apple,food,beginner,Je mange une pomme,zhuh mahnzh oon pom,I eat an apple
+french,pain,pan,bread,food,beginner,J'aime le pain,zhem luh pan,I like bread
+french,café,kah-fay,coffee,food,beginner,Je bois du café,zhuh bwah du kah-fay,I drink coffee
+french,livre,leevr,book,classroom,beginner,Je lis un livre,zhuh lee uh leevr,I read a book
+french,stylo,stee-loh,pen,classroom,beginner,J'ai un stylo,zhay uh stee-loh,I have a pen
+french,école,ay-kol,school,classroom,beginner,Je vais à l'école,zhuh vay ah lay-kol,I go to school
+french,professeur,proh-feh-suhr,teacher,classroom,beginner,Le professeur est gentil,luh proh-feh-suhr eh zhahn-tee,The teacher is kind
+french,étudiant,ay-too-dyahn,student,classroom,beginner,Je suis étudiant,zhuh swee ay-too-dyahn,I am a student
+french,aéroport,ah-ay-roh-por,airport,travel,beginner,Je vais à l'aéroport,zhuh vay ah lah-ay-roh-por,I go to the airport
+french,hôtel,oh-tel,hotel,travel,beginner,Je suis à l'hôtel,zhuh swee ah loh-tel,I am at the hotel
+french,train,tran,train,travel,beginner,Je prends le train,zhuh prahn luh tran,I take the train
+french,bus,boos,bus,travel,beginner,J'attends le bus,zhah-tahn luh boos,I wait for the bus
+french,passeport,pahs-por,passport,travel,beginner,J'ai besoin d'un passeport,zhay buh-zwan duh pahs-por,I need a passport
+french,maman,mah-mahn,mom,family,beginner,J'aime ma maman,zhem mah mah-mahn,I love my mom
+french,papa,pah-pah,dad,family,beginner,Papa est à la maison,pah-pah eh ah lah meh-zohn,Dad is at home
+french,sœur,suhr,sister,family,beginner,J'ai une sœur,zhay oon suhr,I have a sister
+french,frère,frehr,brother,family,beginner,Mon frère est gentil,mohn frehr eh zhahn-tee,My brother is kind
+french,famille,fah-mee-lee,family,family,beginner,C'est ma famille,seh mah fah-mee-lee,This is my family
+french,lundi,lun-dee,Monday,days,beginner,Lundi je vais à l'école,lun-dee zhuh vay ah lay-kol,I go to school on Monday
+french,mardi,mar-dee,Tuesday,days,beginner,À mardi,ah mar-dee,See you on Tuesday
+french,mercredi,mehr-kruh-dee,Wednesday,days,beginner,Mercredi j'étudie,mehr-kruh-dee zhay-too-dee,I study on Wednesday
+french,jeudi,zhuh-dee,Thursday,days,beginner,Jeudi je travaille,zhuh-dee zhuh trah-vahy,I work on Thursday
+french,vendredi,vahn-druh-dee,Friday,days,beginner,Vendredi je me repose,vahn-druh-dee zhuh muh ruh-pohz,I rest on Friday
+
+german,hallo,HAH-loh,hello,greetings,beginner,Hallo Lehrer,HAH-loh LAY-rer,Hello teacher
+german,danke,DAHN-kuh,thank you,greetings,beginner,Danke Lehrer,DAHN-kuh LAY-rer,Thank you teacher
+german,entschuldigung,ent-SHOOL-dee-goong,sorry/excuse me,greetings,beginner,Entschuldigung Freund,ent-SHOOL-dee-goong FROYND,Sorry friend
+german,auf Wiedersehen,owf VEE-der-zay-en,goodbye,greetings,beginner,Auf Wiedersehen Lehrer,owf VEE-der-zay-en LAY-rer,Goodbye teacher
+german,guten Morgen,GOO-ten MOR-gen,good morning,greetings,beginner,Guten Morgen Lehrer,GOO-ten MOR-gen LAY-rer,Good morning teacher
+german,eins,ines,one,numbers,beginner,Geben Sie mir eins bitte,GAY-ben zee meer ines BIT-tuh,Please give me one
+german,zwei,tsvai,two,numbers,beginner,Geben Sie mir zwei Äpfel bitte,GAY-ben zee meer tsvai EP-fel BIT-tuh,Please give me two apples
+german,drei,dry,three,numbers,beginner,Es gibt drei Bücher,es gibt dry BOO-kher,There are three books
+german,vier,feer,four,numbers,beginner,Es gibt vier Stifte,es gibt feer SHTIF-tuh,There are four pens
+german,fünf,fuunf,five,numbers,beginner,Es gibt fünf Studenten,es gibt fuunf shtoo-DEN-ten,There are five students
+german,rot,roht,red,colors,beginner,Das ist eine rote Tasche,das ist EYE-nuh ROH-tuh TAH-shuh,It is a red bag
+german,blau,blow,blue,colors,beginner,Das ist ein blauer Stift,das ist ine BLOW-er shtift,It is a blue pen
+german,gelb,gelp,yellow,colors,beginner,Das ist eine gelbe Blume,das ist EYE-nuh GEL-buh BLOO-muh,It is a yellow flower
+german,grün,groon,green,colors,beginner,Das ist ein grünes Buch,das ist ine GROO-nes bookh,It is a green book
+german,schwarz,shvarts,black,colors,beginner,Das sind schwarze Schuhe,das zint SHVART-suh SHOO-uh,They are black shoes
+german,Reis,rice,rice,food,beginner,Ich esse Reis,ikh ESS-uh rice,I eat rice
+german,Wasser,VAH-ser,water,food,beginner,Ich trinke Wasser,ikh TRINK-uh VAH-ser,I drink water
+german,Apfel,AP-fel,apple,food,beginner,Ich esse einen Apfel,ikh ESS-uh EYE-nen AP-fel,I eat an apple
+german,Brot,broht,bread,food,beginner,Ich mag Brot,ikh mahk broht,I like bread
+german,Kaffee,kah-FAY,coffee,food,beginner,Ich trinke Kaffee,ikh TRINK-uh kah-FAY,I drink coffee
+german,Buch,bookh,book,classroom,beginner,Ich lese ein Buch,ikh LAY-zuh ine bookh,I read a book
+german,Stift,shtift,pen,classroom,beginner,Ich habe einen Stift,ikh HAH-buh EYE-nen shtift,I have a pen
+german,Schule,SHOO-luh,school,classroom,beginner,Ich gehe zur Schule,ikh GAY-uh tsoor SHOO-luh,I go to school
+german,Lehrer,LAY-rer,teacher,classroom,beginner,Der Lehrer ist freundlich,dair LAY-rer ist FROYND-likh,The teacher is kind
+german,Student,shtoo-DENT,student,classroom,beginner,Ich bin Student,ikh bin shtoo-DENT,I am a student
+german,Flughafen,FLOOG-hah-fen,airport,travel,beginner,Ich gehe zum Flughafen,ikh GAY-uh tsoom FLOOG-hah-fen,I go to the airport
+german,Hotel,hoh-TEL,hotel,travel,beginner,Ich bin im Hotel,ikh bin im hoh-TEL,I am at the hotel
+german,Zug,tsoog,train,travel,beginner,Ich nehme den Zug,ikh NAY-muh den tsoog,I take the train
+german,Bus,boos,bus,travel,beginner,Ich warte auf den Bus,ikh VAR-tuh owf den boos,I wait for the bus
+german,Reisepass,RYE-zuh-pahs,passport,travel,beginner,Ich brauche einen Reisepass,ikh BROW-khuh EYE-nen RYE-zuh-pahs,I need a passport
+german,Mutter,MOO-ter,mother,family,beginner,Ich liebe meine Mutter,ikh LEE-buh MY-nuh MOO-ter,I love my mother
+german,Vater,FAH-ter,father,family,beginner,Vater ist zu Hause,FAH-ter ist tsoo HOW-zuh,Father is at home
+german,Schwester,SHVES-ter,sister,family,beginner,Ich habe eine Schwester,ikh HAH-buh EYE-nuh SHVES-ter,I have a sister
+german,Bruder,BROO-der,brother,family,beginner,Mein Bruder ist freundlich,mine BROO-der ist FROYND-likh,My brother is kind
+german,Familie,fah-MEE-lee-uh,family,family,beginner,Das ist meine Familie,das ist MY-nuh fah-MEE-lee-uh,This is my family
+german,Montag,MOHN-tahk,Monday,days,beginner,Am Montag gehe ich zur Schule,am MOHN-tahk GAY-uh ikh tsoor SHOO-luh,I go to school on Monday
+german,Dienstag,DEENS-tahk,Tuesday,days,beginner,Bis Dienstag,bis DEENS-tahk,See you on Tuesday
+german,Mittwoch,MIT-vokh,Wednesday,days,beginner,Am Mittwoch lerne ich,am MIT-vokh LAIR-nuh ikh,I study on Wednesday
+german,Donnerstag,DON-ers-tahk,Thursday,days,beginner,Am Donnerstag arbeite ich,am DON-ers-tahk AR-bye-tuh ikh,I work on Thursday
+german,Freitag,FRY-tahk,Friday,days,beginner,Am Freitag ruhe ich mich aus,am FRY-tahk ROO-uh ikh mikh ows,I rest on Friday
+
+italian,ciao,chow,hello,greetings,beginner,Ciao professore,chow proh-fehs-SOH-reh,Hello teacher
+italian,grazie,GRAHT-see-eh,thank you,greetings,beginner,Grazie professore,GRAHT-see-eh proh-fehs-SOH-reh,Thank you teacher
+italian,scusa,SKOO-zah,sorry/excuse me,greetings,beginner,Scusa amico,SKOO-zah ah-MEE-koh,Sorry friend
+italian,arrivederci,ah-ree-veh-DEHR-chee,goodbye,greetings,beginner,Arrivederci professore,ah-ree-veh-DEHR-chee proh-fehs-SOH-reh,Goodbye teacher
+italian,buongiorno,bwohn-JOR-noh,good morning,greetings,beginner,Buongiorno professore,bwohn-JOR-noh proh-fehs-SOH-reh,Good morning teacher
+italian,uno,OO-noh,one,numbers,beginner,Dammi uno per favore,DAHM-mee OO-noh pair fah-VOH-reh,Please give me one
+italian,due,DOO-eh,two,numbers,beginner,Dammi due mele per favore,DAHM-mee DOO-eh MEH-leh pair fah-VOH-reh,Please give me two apples
+italian,tre,treh,three,numbers,beginner,Ci sono tre libri,chee SOH-noh treh LEE-bree,There are three books
+italian,quattro,KWAH-troh,four,numbers,beginner,Ci sono quattro penne,chee SOH-noh KWAH-troh PEHN-neh,There are four pens
+italian,cinque,CHEEN-kweh,five,numbers,beginner,Ci sono cinque studenti,chee SOH-noh CHEEN-kweh stoo-DEHN-tee,There are five students
+italian,rosso,ROHS-soh,red,colors,beginner,È una borsa rossa,eh OO-nah BOR-sah ROHS-sah,It is a red bag
+italian,blu,bloo,blue,colors,beginner,È una penna blu,eh OO-nah PEHN-nah bloo,It is a blue pen
+italian,giallo,JAH-loh,yellow,colors,beginner,È un fiore giallo,eh oon FYOH-reh JAH-loh,It is a yellow flower
+italian,verde,VEHR-deh,green,colors,beginner,È un libro verde,eh oon LEE-broh VEHR-deh,It is a green book
+italian,nero,NEH-roh,black,colors,beginner,Sono scarpe nere,SOH-noh SKAR-peh NEH-reh,They are black shoes
+italian,riso,REE-zoh,rice,food,beginner,Mangio riso,MAHN-joh REE-zoh,I eat rice
+italian,acqua,AHK-kwah,water,food,beginner,Bevo acqua,BEH-voh AHK-kwah,I drink water
+italian,mela,MEH-lah,apple,food,beginner,Mangio una mela,MAHN-joh OO-nah MEH-lah,I eat an apple
+italian,pane,PAH-neh,bread,food,beginner,Mi piace il pane,mee PYAH-cheh eel PAH-neh,I like bread
+italian,caffè,kah-FEH,coffee,food,beginner,Bevo caffè,BEH-voh kah-FEH,I drink coffee
+italian,libro,LEE-broh,book,classroom,beginner,Leggo un libro,LEHG-goh oon LEE-broh,I read a book
+italian,penna,PEHN-nah,pen,classroom,beginner,Ho una penna,oh OO-nah PEHN-nah,I have a pen
+italian,scuola,SKWOH-lah,school,classroom,beginner,Vado a scuola,VAH-doh ah SKWOH-lah,I go to school
+italian,professore,proh-fehs-SOH-reh,teacher,classroom,beginner,Il professore è gentile,eel proh-fehs-SOH-reh eh jen-TEE-leh,The teacher is kind
+italian,studente,stoo-DEHN-teh,student,classroom,beginner,Sono uno studente,SOH-noh OO-noh stoo-DEHN-teh,I am a student
+italian,aeroporto,ah-eh-roh-POR-toh,airport,travel,beginner,Vado all'aeroporto,VAH-doh ahl ah-eh-roh-POR-toh,I go to the airport
+italian,hotel,oh-TEL,hotel,travel,beginner,Sono in hotel,SOH-noh een oh-TEL,I am at the hotel
+italian,treno,TREH-noh,train,travel,beginner,Prendo il treno,PREHN-doh eel TREH-noh,I take the train
+italian,autobus,OW-toh-boos,bus,travel,beginner,Aspetto l'autobus,ah-SPEHT-toh low-toh-boos,I wait for the bus
+italian,passaporto,pahs-sah-POR-toh,passport,travel,beginner,Ho bisogno del passaporto,oh bee-ZOH-nyoh del pahs-sah-POR-toh,I need a passport
+italian,mamma,MAHM-mah,mom,family,beginner,Amo mia mamma,AH-moh MEE-ah MAHM-mah,I love my mom
+italian,papà,pah-PAH,dad,family,beginner,Papà è a casa,pah-PAH eh ah KAH-zah,Dad is at home
+italian,sorella,soh-REHL-lah,sister,family,beginner,Ho una sorella,oh OO-nah soh-REHL-lah,I have a sister
+italian,fratello,frah-TEHL-loh,brother,family,beginner,Mio fratello è gentile,MEE-oh frah-TEHL-loh eh jen-TEE-leh,My brother is kind
+italian,famiglia,fah-MEE-lyah,family,family,beginner,Questa è la mia famiglia,KWEH-stah eh lah MEE-ah fah-MEE-lyah,This is my family
+italian,lunedì,loo-neh-DEE,Monday,days,beginner,Lunedì vado a scuola,loo-neh-DEE VAH-doh ah SKWOH-lah,I go to school on Monday
+italian,martedì,mar-teh-DEE,Tuesday,days,beginner,Ci vediamo martedì,chee veh-DYAH-moh mar-teh-DEE,See you on Tuesday
+italian,mercoledì,mehr-koh-leh-DEE,Wednesday,days,beginner,Mercoledì studio,mehr-koh-leh-DEE STOO-dyoh,I study on Wednesday
+italian,giovedì,joh-veh-DEE,Thursday,days,beginner,Giovedì lavoro,joh-veh-DEE lah-VOH-roh,I work on Thursday
+italian,venerdì,veh-nehr-DEE,Friday,days,beginner,Venerdì mi riposo,veh-nehr-DEE mee ree-POH-zoh,I rest on Friday
+
