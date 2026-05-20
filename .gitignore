@@ -1,5 +1,25 @@
+# Environment variables
 .env
+
+# Virtual environment
 linguabot_env/
+venv/
+.env/
+.venv/
+
+# Python cache
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# macOS
 .DS_Store
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+
+# IDE
+.vscode/
+.idea/
